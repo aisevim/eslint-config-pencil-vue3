@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-pencil-vue3",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Set of Vue3 Eslint rules for composition API and Script Setup",
   "main": "index.js",
   "files": [
