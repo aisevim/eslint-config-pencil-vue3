@@ -1,0 +1,44 @@
+{
+  "name": "eslint-config-pencil-vue3",
+  "version": "0.0.0",
+  "description": "Set of Vue3 Eslint rules for composition API and Script Setup",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aisevim/eslint-config-pencil-vue3.git"
+  },
+  "keywords": [
+    "pencil-vue3",
+    "pencil",
+    "eslint",
+    "vue",
+    "vue3",
+    "composition-api",
+    "eslint",
+    "eslint-vue3",
+    "eslint-vue"
+  ],
+  "author": "aisevim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aisevim/eslint-config-pencil-vue3/issues"
+  },
+  "homepage": "https://github.com/aisevim/eslint-config-pencil-vue3#readme",
+  "dependencies": {
+    "eslint-plugin-vue": "7.19.1"
+  },
+  "devDependencies": {
+    "eslint": "6.7.2",
+    "standard-version": "^9.3.1"
+  },
+  "peerDependencies": {
+    "eslint": "^6.2.0 || ^7.0.0 || ^8.0.0-0",
+    "vue": "^3.2.0"
+  }
+}
