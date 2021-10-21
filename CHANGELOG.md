@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/aisevim/eslint-config-pencil-vue3/compare/v0.1.0...v0.2.0) (2021-10-21)
+
+
+### Features
+
+* **eslint-plugin-vue:** update package ([c1c04f0](https://github.com/aisevim/eslint-config-pencil-vue3/commit/c1c04f0c7de489f3d5ba341694a501f18e02d9e2))
+
 ## 0.1.0 (2021-10-17)
 
 
