@@ -31,7 +31,7 @@
   },
   "homepage": "https://github.com/aisevim/eslint-config-pencil-vue3#readme",
   "dependencies": {
-    "eslint-plugin-vue": "7.19.1"
+    "eslint-plugin-vue": "7.20.0"
   },
   "devDependencies": {
     "eslint": "6.7.2",

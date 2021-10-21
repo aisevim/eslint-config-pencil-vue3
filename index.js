@@ -100,12 +100,13 @@ module.exports = {
 			submit: true,
 			reset: true
 		}],
-		'vue/no-deprecated-v-is': ['error'],
-		'vue/no-duplicate-attr-inheritance': ['error'],
-		'vue/no-empty-component-block': ['error'],
-		'vue/no-export-in-script-setup': ['error'],
-		'vue/no-invalid-model-keys': ['error'],
-		'vue/no-multiple-objects-in-class': ['error'],
+		'vue/no-use-computed-property-like-method': 'error',
+		'vue/no-deprecated-v-is': 'error',
+		'vue/no-duplicate-attr-inheritance': 'error',
+		'vue/no-empty-component-block': 'error',
+		'vue/no-export-in-script-setup': 'error',
+		'vue/no-invalid-model-keys': 'error',
+		'vue/no-multiple-objects-in-class': 'error',
 		'vue/no-potential-component-option-typo': ['error', {
 			presets: ['all']
 		}],
