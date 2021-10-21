@@ -9,6 +9,10 @@ module.exports = {
 		ecmaVersion: 2020
 	},
 	rules: {
+		// Essential
+		'vue/multi-word-component-names': 'error',
+		'vue/no-deprecated-router-link-tag-prop': 'error',
+
 		// Strongly Recommended
 		'vue/attribute-hyphenation': ['error', 'always'],
 		'vue/component-definition-name-casing': ['error', 'PascalCase'],
