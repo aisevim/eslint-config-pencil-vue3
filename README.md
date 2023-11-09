@@ -1,3 +1,5 @@
+🛑 **Important Notice:** This project is no longer actively maintained. 🛑
+
 # eslint-config-pencil-vue3
 
 Set of Vue3 Eslint rules for composition API and Script Setup. See [eslint.vuejs.org](https://eslint.vuejs.org/)
